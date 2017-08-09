@@ -1,0 +1,1578 @@
+{
+  "version" : 2,
+  "root" : {
+    "id" : "M}&LlN|&",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "Mc!H`yhr",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "M}&LlN|&",
+        "width" : 360,
+        "y" : 0,
+        "deviceType" : "samsung-galaxy-note-5-black",
+        "type" : "samsung-galaxy-note-5-black",
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "RectangleNode",
+            "id" : "9TNJwa@2",
+            "fillColor" : "transparent",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "#8AF2FF",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "#1FA5FF"
+            },
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0, 0, 0, 0.14)",
+                "enabled" : true,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "fillType" : "gradient",
+            "radiusBottomRight" : 0,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.2277777777777778,
+                "parentid" : "9TNJwa@2",
+                "rotation" : 0,
+                "top" : 48,
+                "right" : null,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 5,
+                          "style" : "ALIGN:center",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "LINEHEIGHT:1.2000000000000002",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "SIZE:36",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "FONT:.SFNSText-Heavy|.SFUIText-Heavy",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 5,
+                          "style" : "COLOR:rgb(255, 255, 255)",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "ALIGN:center",
+                          "LINEHEIGHT:1.2000000000000002",
+                          "SIZE:36",
+                          "FONT:.SFNSText-Heavy|.SFUIText-Heavy",
+                          "LETTERSPACING:0",
+                          "COLOR:rgb(255, 255, 255)"
+                        ]
+                      },
+                      "text" : "Lunch",
+                      "key" : "8fmvn",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : "HeaderDay",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "}t+5}E@B",
+                "x" : 147,
+                "constraintsLocked" : true,
+                "left" : 24,
+                "bottom" : null,
+                "height" : 43,
+                "opacity" : 1,
+                "width" : 116,
+                "widthFactor" : null,
+                "targetName" : "HeaderDay",
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.6435185185185185,
+                "autoSize" : true,
+                "y" : 508
+              },
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.4416666666666667,
+                "parentid" : "9TNJwa@2",
+                "rotation" : 0,
+                "top" : 23,
+                "right" : null,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 30,
+                          "style" : "ALIGN:left",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 30,
+                          "style" : "LETTERSPACING:1",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 30,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 30,
+                          "style" : "SIZE:14",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 30,
+                          "style" : "FONT:.SFNSText-Heavy|.SFUIText-Heavy",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 30,
+                          "style" : "COLOR:rgb(255, 255, 255)",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "ALIGN:left",
+                          "LETTERSPACING:1",
+                          "LINEHEIGHT:1.2",
+                          "SIZE:14",
+                          "FONT:.SFNSText-Heavy|.SFUIText-Heavy",
+                          "COLOR:rgb(255, 255, 255)"
+                        ]
+                      },
+                      "text" : "SEOUL R&D CENTER - Cafeteria 1",
+                      "key" : "8fmvn",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : "HeaderNew",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "Qv(~g)!$",
+                "x" : 147,
+                "constraintsLocked" : true,
+                "left" : 24,
+                "bottom" : null,
+                "height" : 16,
+                "opacity" : 1,
+                "width" : 270,
+                "widthFactor" : null,
+                "targetName" : "HeaderNew",
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.287037037037037,
+                "autoSize" : true,
+                "y" : 508
+              }
+            ],
+            "fillEnabled" : true,
+            "parentid" : "Mc!H`yhr",
+            "borderRight" : 1,
+            "name" : "head",
+            "height" : 108,
+            "borderWidth" : 1,
+            "top" : 0,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : true,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.08437500000000001,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : "head",
+            "bottom" : null,
+            "width" : 360
+          },
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "__class" : "RectangleNode",
+            "id" : "0U:XN%Lj",
+            "fillColor" : "rgba(0,170,255,0.5)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "fillType" : "color",
+            "radiusBottomRight" : 0,
+            "children" : [
+              {
+                "radiusBottomLeft" : 5,
+                "rotation" : 0,
+                "__class" : "RectangleNode",
+                "id" : "JCO6zso4",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : false,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : 14,
+                "locked" : false,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "radius" : 5,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : true,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.5,
+                "borderPerSide" : false,
+                "fillType" : "color",
+                "radiusBottomRight" : 5,
+                "children" : [
+                  {
+                    "__class" : "TextNode",
+                    "locked" : false,
+                    "centerAnchorX" : 0.09789156626506024,
+                    "parentid" : "JCO6zso4",
+                    "rotation" : 0,
+                    "top" : null,
+                    "right" : null,
+                    "styledText" : {
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 3,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "ALIGN:left",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "SIZE:12",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "COLOR:rgb(119, 119, 119)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "ALIGN:left",
+                              "SIZE:12",
+                              "COLOR:rgb(119, 119, 119)"
+                            ]
+                          },
+                          "text" : "반찬들",
+                          "key" : "cc2bq",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 3,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "ALIGN:left",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "SIZE:12",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "COLOR:rgb(119, 119, 119)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "ALIGN:left",
+                              "SIZE:12",
+                              "COLOR:rgb(119, 119, 119)"
+                            ]
+                          },
+                          "text" : "반찬들",
+                          "key" : "1k6uv",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 3,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "ALIGN:left",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "SIZE:12",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "COLOR:rgb(119, 119, 119)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "ALIGN:left",
+                              "SIZE:12",
+                              "COLOR:rgb(119, 119, 119)"
+                            ]
+                          },
+                          "text" : "반찬들",
+                          "key" : "5flfi",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 3,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "ALIGN:left",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "SIZE:12",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "COLOR:rgb(119, 119, 119)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "ALIGN:left",
+                              "SIZE:12",
+                              "COLOR:rgb(119, 119, 119)"
+                            ]
+                          },
+                          "text" : "반찬들",
+                          "key" : "7r8tc",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft",
+                      "entityMap" : {
+
+                      }
+                    },
+                    "name" : "_sidemenu",
+                    "shadows" : [
+                      {
+                        "y" : 2,
+                        "enabled" : false,
+                        "blur" : 5,
+                        "x" : 0,
+                        "__class" : "Shadow",
+                        "color" : "rgba(0,0,0,0.25)"
+                      }
+                    ],
+                    "id" : "5AI=D6Ez",
+                    "x" : 87,
+                    "constraintsLocked" : true,
+                    "left" : 16,
+                    "bottom" : 6,
+                    "height" : 56,
+                    "opacity" : 1,
+                    "width" : 33,
+                    "widthFactor" : null,
+                    "targetName" : "_sidemenu",
+                    "heightFactor" : null,
+                    "editable" : false,
+                    "visible" : true,
+                    "centerAnchorY" : 0.7553956834532374,
+                    "autoSize" : true,
+                    "y" : 101
+                  },
+                  {
+                    "__class" : "TextNode",
+                    "locked" : false,
+                    "centerAnchorX" : 0.09939759036144578,
+                    "parentid" : "JCO6zso4",
+                    "rotation" : 0,
+                    "top" : 49,
+                    "right" : null,
+                    "styledText" : {
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 3,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "COLOR:#000000",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "SIZE:18",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "COLOR:#000000",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "SIZE:18"
+                            ]
+                          },
+                          "text" : "싱푸 ",
+                          "key" : "cc2bq",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft",
+                      "entityMap" : {
+
+                      }
+                    },
+                    "name" : "_restaurant",
+                    "shadows" : [
+                      {
+                        "y" : 2,
+                        "enabled" : false,
+                        "blur" : 5,
+                        "x" : 0,
+                        "__class" : "Shadow",
+                        "color" : "rgba(0,0,0,0.25)"
+                      }
+                    ],
+                    "id" : "-{&+sHfT",
+                    "x" : 87,
+                    "constraintsLocked" : true,
+                    "left" : 14,
+                    "bottom" : null,
+                    "height" : 21,
+                    "opacity" : 1,
+                    "width" : 38,
+                    "widthFactor" : null,
+                    "targetName" : "_restaurant",
+                    "heightFactor" : null,
+                    "editable" : false,
+                    "visible" : true,
+                    "centerAnchorY" : 0.4280575539568345,
+                    "autoSize" : true,
+                    "y" : 101
+                  },
+                  {
+                    "__class" : "TextNode",
+                    "locked" : false,
+                    "centerAnchorX" : 0.2018072289156627,
+                    "parentid" : "JCO6zso4",
+                    "rotation" : 0,
+                    "top" : 10,
+                    "right" : null,
+                    "styledText" : {
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 4,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 4,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 4,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 4,
+                              "style" : "COLOR:rgb(17, 153, 238)",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 4,
+                              "style" : "SIZE:24",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "COLOR:rgb(17, 153, 238)",
+                              "SIZE:24"
+                            ]
+                          },
+                          "text" : "자장면 ",
+                          "key" : "cc2bq",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft",
+                      "entityMap" : {
+
+                      }
+                    },
+                    "name" : "_menu",
+                    "shadows" : [
+                      {
+                        "y" : 2,
+                        "enabled" : false,
+                        "blur" : 5,
+                        "x" : 0,
+                        "__class" : "Shadow",
+                        "color" : "rgba(0,0,0,0.25)"
+                      }
+                    ],
+                    "id" : "H~{!dHBQ",
+                    "x" : 87,
+                    "constraintsLocked" : true,
+                    "left" : 16,
+                    "bottom" : null,
+                    "height" : 28,
+                    "opacity" : 1,
+                    "width" : 71,
+                    "widthFactor" : null,
+                    "targetName" : "_menu",
+                    "heightFactor" : null,
+                    "editable" : false,
+                    "visible" : true,
+                    "centerAnchorY" : 0.223021582733813,
+                    "autoSize" : true,
+                    "y" : 101
+                  }
+                ],
+                "fillEnabled" : true,
+                "parentid" : "0U:XN%Lj",
+                "borderRight" : 1,
+                "name" : "_item",
+                "height" : 150,
+                "borderWidth" : 1,
+                "top" : 14,
+                "borderTop" : 1,
+                "radiusTopRight" : 5,
+                "borderBottom" : 1,
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : 14,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.1569548872180451,
+                "visible" : false,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "radiusTopLeft" : 5,
+                "targetName" : "_item",
+                "bottom" : null,
+                "width" : 332
+              },
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "__class" : "RectangleNode",
+                "id" : "mRcL^@M{",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : false,
+                "widthFactor" : null,
+                "opacity" : 0,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : 118,
+                "locked" : false,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.5,
+                "borderPerSide" : false,
+                "fillType" : "color",
+                "radiusBottomRight" : 0,
+                "children" : [
+                  {
+                    "__class" : "TextNode",
+                    "locked" : false,
+                    "centerAnchorX" : 0.5,
+                    "parentid" : "mRcL^@M{",
+                    "rotation" : 0,
+                    "top" : null,
+                    "right" : null,
+                    "styledText" : {
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 14,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 14,
+                              "style" : "COLOR:#000000",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 14,
+                              "style" : "SIZE:16",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 14,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 14,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "COLOR:#000000",
+                              "SIZE:16",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2"
+                            ]
+                          },
+                          "text" : "No menus today",
+                          "key" : "f0m6l",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft",
+                      "entityMap" : {
+
+                      }
+                    },
+                    "name" : null,
+                    "shadows" : [
+                      {
+                        "y" : 2,
+                        "enabled" : false,
+                        "blur" : 5,
+                        "x" : 0,
+                        "__class" : "Shadow",
+                        "color" : "rgba(0,0,0,0.25)"
+                      }
+                    ],
+                    "id" : "9ic4W_Q]",
+                    "x" : 168,
+                    "constraintsLocked" : false,
+                    "left" : null,
+                    "bottom" : 0,
+                    "height" : 19,
+                    "opacity" : 1,
+                    "width" : 124,
+                    "widthFactor" : null,
+                    "targetName" : null,
+                    "heightFactor" : null,
+                    "editable" : false,
+                    "visible" : true,
+                    "centerAnchorY" : 0.8207547169811321,
+                    "autoSize" : true,
+                    "y" : 307
+                  },
+                  {
+                    "__class" : "SVGNode",
+                    "fillType" : "color",
+                    "originalFilename" : "local_dining",
+                    "centerAnchorX" : 0.5,
+                    "parentid" : "mRcL^@M{",
+                    "rotation" : 0,
+                    "locked" : false,
+                    "intrinsicWidth" : 24,
+                    "top" : 0,
+                    "right" : null,
+                    "intrinsicHeight" : 24,
+                    "name" : null,
+                    "shadows" : [
+                      {
+                        "y" : 2,
+                        "enabled" : false,
+                        "blur" : 5,
+                        "x" : 0,
+                        "__class" : "Shadow",
+                        "color" : "rgba(0,0,0,0.25)"
+                      }
+                    ],
+                    "aspectRatioLocked" : true,
+                    "id" : "v+e!Ulnj",
+                    "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M8.1 13.34l2.83-2.83L3.91 3.5a4.008 4.008 0 0 0 0 5.66l4.19 4.18zm6.78-1.81c1.53.71 3.68.21 5.27-1.38 1.91-1.91 2.28-4.65.81-6.12-1.46-1.46-4.2-1.1-6.12.81-1.59 1.59-2.09 3.74-1.38 5.27L3.7 19.87l1.41 1.41L12 14.41l6.88 6.88 1.41-1.41L13.41 13l1.47-1.47z\"><\/path><\/svg>",
+                    "constraintsLocked" : false,
+                    "left" : null,
+                    "bottom" : null,
+                    "height" : 24,
+                    "fillGradient" : {
+                      "end" : "rgba(0,0,0,0)",
+                      "alpha" : 1,
+                      "angle" : 0,
+                      "__class" : "LinearGradient",
+                      "start" : "black"
+                    },
+                    "width" : 24,
+                    "widthFactor" : null,
+                    "targetName" : null,
+                    "heightFactor" : null,
+                    "fillColor" : "black",
+                    "opacity" : 1,
+                    "centerAnchorY" : 0.2264150943396226,
+                    "visible" : true
+                  }
+                ],
+                "fillEnabled" : true,
+                "parentid" : "0U:XN%Lj",
+                "borderRight" : 1,
+                "name" : "noMenu",
+                "height" : 53,
+                "borderWidth" : 1,
+                "top" : 240,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "borderBottom" : 1,
+                "borderEnabled" : false,
+                "constraintsLocked" : true,
+                "right" : 118,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.5009398496240601,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "radiusTopLeft" : 0,
+                "targetName" : "noMenu",
+                "bottom" : null,
+                "width" : 124
+              },
+              {
+                "radiusBottomLeft" : 5,
+                "rotation" : 0,
+                "__class" : "RectangleNode",
+                "id" : ">O&S|3Ja",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : false,
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : true,
+                "borderColor" : "#222",
+                "left" : 14,
+                "locked" : false,
+                "fillGradient" : {
+                  "end" : "rgba(0,0,0,0)",
+                  "alpha" : 1,
+                  "angle" : 0,
+                  "__class" : "LinearGradient",
+                  "start" : "black"
+                },
+                "radius" : 5,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : true,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.5,
+                "borderPerSide" : false,
+                "fillType" : "color",
+                "radiusBottomRight" : 5,
+                "children" : [
+                  {
+                    "__class" : "TextNode",
+                    "locked" : false,
+                    "centerAnchorX" : 0.09789156626506024,
+                    "parentid" : ">O&S|3Ja",
+                    "rotation" : 0,
+                    "top" : null,
+                    "right" : null,
+                    "styledText" : {
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 3,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "ALIGN:left",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "SIZE:12",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "COLOR:rgb(119, 119, 119)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "ALIGN:left",
+                              "SIZE:12",
+                              "COLOR:rgb(119, 119, 119)"
+                            ]
+                          },
+                          "text" : "반찬들",
+                          "key" : "cc2bq",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 3,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "ALIGN:left",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "SIZE:12",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "COLOR:rgb(119, 119, 119)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "ALIGN:left",
+                              "SIZE:12",
+                              "COLOR:rgb(119, 119, 119)"
+                            ]
+                          },
+                          "text" : "반찬들",
+                          "key" : "1k6uv",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 3,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "ALIGN:left",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "SIZE:12",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "COLOR:rgb(119, 119, 119)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "ALIGN:left",
+                              "SIZE:12",
+                              "COLOR:rgb(119, 119, 119)"
+                            ]
+                          },
+                          "text" : "반찬들",
+                          "key" : "5flfi",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 3,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "ALIGN:left",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "SIZE:12",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "COLOR:rgb(119, 119, 119)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "ALIGN:left",
+                              "SIZE:12",
+                              "COLOR:rgb(119, 119, 119)"
+                            ]
+                          },
+                          "text" : "반찬들",
+                          "key" : "7r8tc",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft",
+                      "entityMap" : {
+
+                      }
+                    },
+                    "name" : "_sidemenu",
+                    "shadows" : [
+                      {
+                        "y" : 2,
+                        "enabled" : false,
+                        "blur" : 5,
+                        "x" : 0,
+                        "__class" : "Shadow",
+                        "color" : "rgba(0,0,0,0.25)"
+                      }
+                    ],
+                    "id" : "d1A@1+J9",
+                    "x" : 87,
+                    "constraintsLocked" : true,
+                    "left" : 16,
+                    "bottom" : 6,
+                    "height" : 56,
+                    "opacity" : 1,
+                    "width" : 33,
+                    "widthFactor" : null,
+                    "targetName" : "_sidemenu_1",
+                    "heightFactor" : null,
+                    "editable" : false,
+                    "visible" : true,
+                    "centerAnchorY" : 0.7733333333333333,
+                    "autoSize" : true,
+                    "y" : 101
+                  },
+                  {
+                    "__class" : "TextNode",
+                    "locked" : false,
+                    "centerAnchorX" : 0.09939759036144578,
+                    "parentid" : ">O&S|3Ja",
+                    "rotation" : 0,
+                    "top" : 49,
+                    "right" : null,
+                    "styledText" : {
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 3,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "COLOR:#000000",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 3,
+                              "style" : "SIZE:18",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "COLOR:#000000",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "SIZE:18"
+                            ]
+                          },
+                          "text" : "싱푸 ",
+                          "key" : "cc2bq",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft",
+                      "entityMap" : {
+
+                      }
+                    },
+                    "name" : "_restaurant",
+                    "shadows" : [
+                      {
+                        "y" : 2,
+                        "enabled" : false,
+                        "blur" : 5,
+                        "x" : 0,
+                        "__class" : "Shadow",
+                        "color" : "rgba(0,0,0,0.25)"
+                      }
+                    ],
+                    "id" : "?1N@t`(^",
+                    "x" : 87,
+                    "constraintsLocked" : true,
+                    "left" : 14,
+                    "bottom" : null,
+                    "height" : 21,
+                    "opacity" : 1,
+                    "width" : 38,
+                    "widthFactor" : null,
+                    "targetName" : "_restaurant_1",
+                    "heightFactor" : null,
+                    "editable" : false,
+                    "visible" : true,
+                    "centerAnchorY" : 0.3966666666666667,
+                    "autoSize" : true,
+                    "y" : 101
+                  },
+                  {
+                    "__class" : "TextNode",
+                    "locked" : false,
+                    "centerAnchorX" : 0.1551204819277109,
+                    "parentid" : ">O&S|3Ja",
+                    "rotation" : 0,
+                    "top" : 10,
+                    "right" : null,
+                    "styledText" : {
+                      "blocks" : [
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 4,
+                              "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 4,
+                              "style" : "LETTERSPACING:0",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 4,
+                              "style" : "LINEHEIGHT:1.2",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 4,
+                              "style" : "COLOR:rgb(17, 153, 238)",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 4,
+                              "style" : "SIZE:24",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                              "LETTERSPACING:0",
+                              "LINEHEIGHT:1.2",
+                              "COLOR:rgb(17, 153, 238)",
+                              "SIZE:24"
+                            ]
+                          },
+                          "text" : "자장면 ",
+                          "key" : "cc2bq",
+                          "type" : "unstyled"
+                        }
+                      ],
+                      "__class" : "StyledTextDraft",
+                      "entityMap" : {
+
+                      }
+                    },
+                    "name" : "_menu",
+                    "shadows" : [
+                      {
+                        "y" : 2,
+                        "enabled" : false,
+                        "blur" : 5,
+                        "x" : 0,
+                        "__class" : "Shadow",
+                        "color" : "rgba(0,0,0,0.25)"
+                      }
+                    ],
+                    "id" : "8Iwqcs|?",
+                    "x" : 87,
+                    "constraintsLocked" : true,
+                    "left" : 16,
+                    "bottom" : null,
+                    "height" : 28,
+                    "opacity" : 1,
+                    "width" : 71,
+                    "widthFactor" : null,
+                    "targetName" : "_menu_1",
+                    "heightFactor" : null,
+                    "editable" : false,
+                    "visible" : true,
+                    "centerAnchorY" : 0.16,
+                    "autoSize" : true,
+                    "y" : 101
+                  },
+                  {
+                    "radiusBottomLeft" : 0,
+                    "rotation" : 0,
+                    "__class" : "RectangleNode",
+                    "id" : "]\/bFx~QB",
+                    "fillColor" : "rgb(221, 221, 221)",
+                    "aspectRatioLocked" : true,
+                    "widthFactor" : null,
+                    "opacity" : 1,
+                    "clip" : false,
+                    "borderColor" : "#222",
+                    "left" : null,
+                    "locked" : false,
+                    "fillGradient" : {
+                      "end" : "rgba(0,0,0,0)",
+                      "alpha" : 1,
+                      "angle" : 0,
+                      "__class" : "LinearGradient",
+                      "start" : "black"
+                    },
+                    "radius" : 0,
+                    "boxShadows" : [
+                      {
+                        "x" : 0,
+                        "color" : "rgba(0,0,0,0.25)",
+                        "enabled" : false,
+                        "y" : 2,
+                        "__class" : "BoxShadow",
+                        "inset" : false,
+                        "blur" : 5
+                      }
+                    ],
+                    "centerAnchorX" : 0.7740963855421686,
+                    "borderPerSide" : false,
+                    "fillType" : "color",
+                    "radiusBottomRight" : 0,
+                    "children" : [
+
+                    ],
+                    "fillEnabled" : true,
+                    "parentid" : ">O&S|3Ja",
+                    "borderRight" : 1,
+                    "name" : "_image",
+                    "height" : 150,
+                    "borderWidth" : 1,
+                    "top" : 0,
+                    "borderTop" : 1,
+                    "radiusTopRight" : 0,
+                    "borderBottom" : 1,
+                    "borderEnabled" : false,
+                    "constraintsLocked" : false,
+                    "right" : 0,
+                    "radiusPerCorner" : false,
+                    "centerAnchorY" : 0.5,
+                    "visible" : true,
+                    "borderLeft" : 1,
+                    "heightFactor" : null,
+                    "radiusTopLeft" : 0,
+                    "targetName" : "_image",
+                    "bottom" : 0,
+                    "width" : 150
+                  }
+                ],
+                "fillEnabled" : true,
+                "parentid" : "0U:XN%Lj",
+                "borderRight" : 1,
+                "name" : "_item_image",
+                "height" : 150,
+                "borderWidth" : 1,
+                "top" : 177,
+                "borderTop" : 1,
+                "radiusTopRight" : 5,
+                "borderBottom" : 1,
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : 14,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.4736842105263158,
+                "visible" : false,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "radiusTopLeft" : 5,
+                "targetName" : "_item_image",
+                "bottom" : null,
+                "width" : 332
+              }
+            ],
+            "fillEnabled" : false,
+            "parentid" : "Mc!H`yhr",
+            "borderRight" : 1,
+            "name" : "contents",
+            "height" : 532,
+            "borderWidth" : 1,
+            "top" : 108,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : true,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.584375,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : "contents",
+            "bottom" : 0,
+            "width" : 360
+          }
+        ],
+        "height" : 640,
+        "fillType" : "color",
+        "targetName" : null,
+        "fillColor" : "#ffffff",
+        "name" : "main"
+      }
+    ]
+  }
+}
