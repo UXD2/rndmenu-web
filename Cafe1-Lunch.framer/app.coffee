@@ -53,7 +53,22 @@ menuDB.get "/menu/"+getDate()+"/1식당/점심", (menus) ->
 		#item.y = index * (item.height + gutter) + 64
 		item.y = lastItemMaxY + gutter
 		lastItemMaxY = item.maxY
+		
+		item.onTap ->
+			heart.scale = 0.5
+							
+			changeHeartColor(heart)
+		
+			animation_cirlces()
 			
+			Utils.delay 1.0, ->
+				heart.animate
+					scale: 0.1
+					opacity: 0.0
+					options:
+						time: 0.5
+						curve: Bezier.easeInOut
+		
 		menu = _menu.copySingle()
 		menu.parent = item
 		menu.text = menuData.menu
@@ -109,3 +124,69 @@ Utils.delay 0.3, ->
 Utils.delay 0.6, ->
 	dot3.stateCycle("small", "normal")		
 
+heart.scale = 0.5
+
+
+# This is a function which would generate random x & y positions and opacity value. The random x & y value would make the confetti or circles travel in random direction when they would come out from behind the heart. randomColorAlfa would control their opacity so as to give a feel of randomness in the whole thing.
+randomXY = -> return Utils.randomNumber(-300,300)
+randomColorAlfa = -> return Utils.randomNumber(0,1)
+
+
+#funtion to change layer color to red
+
+changeHeartColor = (layer) ->
+	layer.animate
+		opacity: 1.0
+		color: "#FB0271"
+		options: 
+			time: 1	 
+
+# function to create the colored circles and then animate them
+animation_cirlces = ->
+	for i in [0..10]
+		circles = new Layer
+			width: 19
+			height: 19
+			parent: wrapper
+			x: Align.center
+			y: Align.center
+			borderRadius: 20
+			backgroundColor: "#FB0271"
+			opacity: randomColorAlfa()
+# 		we have used a function here randomXY() which generates random coordinates between 2 limits that we have specified in the begining. This would make the circles fly away in random directions	
+		circles.animate
+			properties: 
+				x: randomXY()
+				y: randomXY()
+				scale: 0
+				options:
+					time: 1
+					delay: 0.2
+
+# 		we need to clear the circles created to give an effect of fireworks exploding. we can either reducde the opacity to zero or destroy the circles. If we reduce the opacity than the circles would start accumulating after few uses and the prototype would become sluggish
+		circles.onAnimationEnd ->
+			@destroy()
+		
+		circles2 = new Layer
+			width: 19
+			height: 19
+			parent: wrapper
+			x: Align.center
+			y: Align.center
+			borderRadius: 20
+			backgroundColor: "#50E3C2"
+			opacity: randomColorAlfa()
+		circles2.animate
+			properties: 
+				x: randomXY()
+				y: randomXY()
+				scale: 0
+				options:
+					time: 1
+					delay: 0.2
+
+		circles2.onAnimationEnd ->
+			@destroy()
+			
+
+	
